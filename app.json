@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "karateNativeApp",
-    "slug": "karateNativeApp",
+    "slug": "karatefylla",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95a4f193-f979-46be-b0c0-7108418387a3"
+      }
+    },
+    "owner": "ballardinimarta"
   }
 }
